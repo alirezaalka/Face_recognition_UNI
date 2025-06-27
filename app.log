@@ -1,0 +1,184 @@
+2025-06-27 15:58:11,741 - DEBUG - Initializing FaceRecognitionGUI
+2025-06-27 15:58:11,756 - DEBUG - Loading OpenCV and dataset
+2025-06-27 15:58:20,656 - DEBUG - Loading dataset
+2025-06-27 15:58:20,661 - DEBUG - Dataset loaded successfully
+2025-06-27 15:58:20,661 - DEBUG - Initialization completed
+2025-06-27 15:58:20,691 - DEBUG - Application started
+2025-06-27 15:58:25,384 - DEBUG - Single detection completed: 2 faces
+2025-06-27 15:58:26,483 - DEBUG - Started live detection
+2025-06-27 15:58:28,437 - DEBUG - Stopped live detection
+2025-06-27 15:58:30,291 - DEBUG - Starting face registration process
+2025-06-27 15:58:30,291 - DEBUG - Started face registration thread
+2025-06-27 15:58:30,303 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:30,453 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:30,596 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:30,734 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:30,883 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:31,001 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:31,137 - DEBUG - Captured face 1/10
+2025-06-27 15:58:31,264 - DEBUG - Captured face 2/10
+2025-06-27 15:58:31,390 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:31,517 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:31,696 - DEBUG - Captured face 3/10
+2025-06-27 15:58:31,808 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:31,938 - DEBUG - Captured face 4/10
+2025-06-27 15:58:32,062 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:32,181 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:32,324 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:32,469 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:32,593 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:32,709 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:32,833 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:32,971 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:33,114 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:33,245 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:33,372 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:33,500 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:33,629 - DEBUG - Captured face 5/10
+2025-06-27 15:58:33,762 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:33,888 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:34,004 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:34,137 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:34,276 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:34,406 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:34,530 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:34,666 - DEBUG - Captured face 6/10
+2025-06-27 15:58:34,799 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:34,937 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:35,063 - DEBUG - Captured face 7/10
+2025-06-27 15:58:35,201 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:35,318 - DEBUG - Captured face 8/10
+2025-06-27 15:58:35,438 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:35,566 - DEBUG - Video paused
+2025-06-27 15:58:35,573 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:35,675 - DEBUG - Registration loop ended: 8 faces captured
+2025-06-27 15:58:35,675 - WARNING - Registration failed: 8 faces captured
+2025-06-27 15:58:39,201 - DEBUG - Displayed About page
+2025-06-27 15:58:40,275 - DEBUG - Single detection completed: 2 faces
+2025-06-27 15:58:41,113 - DEBUG - Video resumed
+2025-06-27 15:58:41,113 - DEBUG - Starting face registration process
+2025-06-27 15:58:41,113 - DEBUG - Started face registration thread
+2025-06-27 15:58:41,123 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:41,248 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:41,374 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:41,499 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:41,659 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:41,783 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:41,904 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:42,021 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:42,139 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:42,273 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:42,398 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:42,453 - WARNING - Attempted to start registration while already registering
+2025-06-27 15:58:42,523 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:42,648 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:42,766 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:42,877 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:42,988 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:43,114 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:43,241 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:43,362 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:43,491 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:43,602 - DEBUG - Captured face 1/10
+2025-06-27 15:58:43,714 - DEBUG - No face detected in frame
+2025-06-27 15:58:43,827 - DEBUG - Captured face 2/10
+2025-06-27 15:58:43,946 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:44,055 - DEBUG - Captured face 3/10
+2025-06-27 15:58:44,169 - DEBUG - Captured face 4/10
+2025-06-27 15:58:44,212 - WARNING - Attempted to start registration while already registering
+2025-06-27 15:58:44,305 - DEBUG - Captured face 5/10
+2025-06-27 15:58:44,427 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:44,549 - DEBUG - Multiple faces detected: 2
+2025-06-27 15:58:44,664 - DEBUG - Captured face 6/10
+2025-06-27 15:58:44,736 - DEBUG - Video paused
+2025-06-27 15:58:44,773 - DEBUG - Registration loop ended: 6 faces captured
+2025-06-27 15:58:44,774 - WARNING - Registration failed: 6 faces captured
+2025-06-27 15:58:53,240 - DEBUG - Video resumed
+2025-06-27 15:58:53,241 - DEBUG - Starting face registration process
+2025-06-27 15:58:53,241 - DEBUG - Started face registration thread
+2025-06-27 15:58:53,251 - DEBUG - Captured face 1/10
+2025-06-27 15:58:53,366 - DEBUG - Captured face 2/10
+2025-06-27 15:58:53,477 - DEBUG - Captured face 3/10
+2025-06-27 15:58:53,610 - DEBUG - Captured face 4/10
+2025-06-27 15:58:53,727 - DEBUG - Captured face 5/10
+2025-06-27 15:58:53,852 - DEBUG - Captured face 6/10
+2025-06-27 15:58:53,976 - DEBUG - Captured face 7/10
+2025-06-27 15:58:54,101 - DEBUG - Captured face 8/10
+2025-06-27 15:58:54,225 - DEBUG - Captured face 9/10
+2025-06-27 15:58:54,335 - DEBUG - Captured face 10/10
+2025-06-27 15:58:54,436 - DEBUG - Registration loop ended: 10 faces captured
+2025-06-27 15:58:54,436 - DEBUG - Emitting prompt_name_signal
+2025-06-27 15:58:54,438 - DEBUG - Showing name prompt
+2025-06-27 15:58:56,185 - DEBUG - Name prompt result: ok=False, name=
+2025-06-27 15:58:56,185 - INFO - Registration cancelled by user
+2025-06-27 15:59:08,985 - DEBUG - Starting face registration process
+2025-06-27 15:59:08,985 - DEBUG - Started face registration thread
+2025-06-27 15:59:08,995 - DEBUG - Captured face 1/10
+2025-06-27 15:59:09,117 - DEBUG - Captured face 2/10
+2025-06-27 15:59:09,229 - DEBUG - Captured face 3/10
+2025-06-27 15:59:09,351 - DEBUG - Captured face 4/10
+2025-06-27 15:59:09,476 - DEBUG - Captured face 5/10
+2025-06-27 15:59:09,601 - DEBUG - Captured face 6/10
+2025-06-27 15:59:09,724 - DEBUG - Captured face 7/10
+2025-06-27 15:59:09,848 - DEBUG - Captured face 8/10
+2025-06-27 15:59:09,958 - DEBUG - Captured face 9/10
+2025-06-27 15:59:10,086 - DEBUG - Captured face 10/10
+2025-06-27 15:59:10,187 - DEBUG - Registration loop ended: 10 faces captured
+2025-06-27 15:59:10,187 - DEBUG - Emitting prompt_name_signal
+2025-06-27 15:59:10,193 - DEBUG - Showing name prompt
+2025-06-27 15:59:15,750 - DEBUG - Name prompt result: ok=True, name=alireza
+2025-06-27 15:59:15,751 - DEBUG - Loading dataset
+2025-06-27 15:59:15,760 - DEBUG - Dataset loaded successfully
+2025-06-27 15:59:15,760 - INFO - Registered face: alireza
+2025-06-27 15:59:20,169 - DEBUG - Started live detection
+2025-06-27 15:59:40,900 - DEBUG - Stopped live detection
+2025-06-27 15:59:43,985 - DEBUG - Starting face registration process
+2025-06-27 15:59:43,985 - DEBUG - Started face registration thread
+2025-06-27 15:59:43,997 - DEBUG - Captured face 1/10
+2025-06-27 15:59:44,127 - DEBUG - Captured face 2/10
+2025-06-27 15:59:44,267 - DEBUG - Captured face 3/10
+2025-06-27 15:59:44,384 - DEBUG - Captured face 4/10
+2025-06-27 15:59:44,510 - DEBUG - Captured face 5/10
+2025-06-27 15:59:44,640 - DEBUG - Captured face 6/10
+2025-06-27 15:59:44,757 - DEBUG - Captured face 7/10
+2025-06-27 15:59:44,883 - DEBUG - Captured face 8/10
+2025-06-27 15:59:45,018 - DEBUG - Captured face 9/10
+2025-06-27 15:59:45,155 - DEBUG - Captured face 10/10
+2025-06-27 15:59:45,258 - DEBUG - Registration loop ended: 10 faces captured
+2025-06-27 15:59:45,259 - DEBUG - Emitting prompt_name_signal
+2025-06-27 15:59:45,264 - DEBUG - Showing name prompt
+2025-06-27 15:59:50,637 - DEBUG - Name prompt result: ok=True, name=sadra
+2025-06-27 15:59:50,639 - DEBUG - Loading dataset
+2025-06-27 15:59:50,648 - DEBUG - Dataset loaded successfully
+2025-06-27 15:59:50,649 - INFO - Registered face: sadra
+2025-06-27 15:59:52,217 - DEBUG - Started live detection
+2025-06-27 16:00:01,086 - DEBUG - Stopped live detection
+2025-06-27 16:00:01,631 - DEBUG - Single detection completed: 1 faces
+2025-06-27 16:00:02,784 - DEBUG - Single detection completed: 1 faces
+2025-06-27 16:00:03,285 - DEBUG - Single detection completed: 1 faces
+2025-06-27 16:00:05,016 - DEBUG - Single detection completed: 2 faces
+2025-06-27 16:00:06,388 - DEBUG - Started live detection
+2025-06-27 16:00:07,957 - DEBUG - Stopped live detection
+2025-06-27 16:00:16,058 - DEBUG - Displayed About page
+2025-06-27 16:00:17,140 - DEBUG - Video paused
+2025-06-27 16:00:18,314 - DEBUG - Application closed, resources released
+2025-06-27 16:34:07,326 - DEBUG - Initializing FaceRecognitionGUI
+2025-06-27 16:34:07,341 - DEBUG - Loading OpenCV and dataset
+2025-06-27 16:34:15,074 - DEBUG - Loading dataset
+2025-06-27 16:34:15,076 - DEBUG - Dataset loaded successfully
+2025-06-27 16:34:15,076 - DEBUG - Initialization completed
+2025-06-27 16:34:15,118 - DEBUG - Application started
+2025-06-27 16:34:17,437 - DEBUG - Started live detection
+2025-06-27 16:34:19,447 - DEBUG - Single detection completed: 1 faces
+2025-06-27 16:34:19,878 - DEBUG - Single detection completed: 1 faces
+2025-06-27 16:34:20,068 - DEBUG - Single detection completed: 1 faces
+2025-06-27 16:34:21,584 - DEBUG - Stopped live detection
+2025-06-27 16:34:23,652 - DEBUG - Displayed About page
+2025-06-27 16:34:32,447 - DEBUG - Application closed, resources released
+2025-06-27 18:19:57,901 - DEBUG - Initializing FaceRecognitionGUI
+2025-06-27 18:19:57,913 - DEBUG - Loading OpenCV and dataset
+2025-06-27 18:20:05,354 - DEBUG - Loading dataset
+2025-06-27 18:20:05,356 - DEBUG - Dataset loaded successfully
+2025-06-27 18:20:05,356 - DEBUG - Initialization completed
+2025-06-27 18:20:05,386 - DEBUG - Application started
+2025-06-27 18:20:10,910 - DEBUG - Application closed, resources released
